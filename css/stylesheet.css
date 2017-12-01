@@ -7,6 +7,11 @@ h1
 {
     display: flex;
     justify-content: center;
+    
+}
+.shad
+{
+    text-shadow: 1px 1px 5px white;
 }
 #top
 {
@@ -43,4 +48,8 @@ img
 #navcolor
 {
     background-color: rgba(0,0,0,0.5);
+}
+.d-block
+{
+    box-shadow: 0 40px 60px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
